@@ -1,6 +1,5 @@
 function [ q1, q2, q3, q4, q5 ] = IK(x,y,z,a2,a3,d1,d5,dE)
-%UNTITLED2 Summary of this function goes here
-%   Detailed explanation goes here
+
 
 robotorigin = [0;0;0];
 
